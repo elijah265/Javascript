@@ -1,3 +1,4 @@
+/*
 //Numbars:The number type represents both integer and floating point numbers.
 
 let number = 1234;
@@ -38,6 +39,7 @@ Backticks: `Hello`. */
 
 //Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
 
+/*
 let NAME = 'peter';
 console.log(`Hello, ${NAME}!`); // Hello, Peter!
 console.log(`the result is ${1+4}`);// the result is 5
@@ -65,3 +67,4 @@ console.log(typeof Age);
 
 console.log(9007199254740991 +1);//9007199254740992
 console.log(typeof 9007199254740991 +1);//number1
+*/
